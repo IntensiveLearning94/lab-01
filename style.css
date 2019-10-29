@@ -1,0 +1,46 @@
+@media screen and (min-width: 480px) {
+    div:nth-child(1) { width: 480px;
+        height: 75px;
+        background-color: blue;
+        float: left;
+    }
+    div:nth-child(2) { width: 480px;
+        height: 150px;
+        background-color: orangered;
+        float: right;
+    }
+    div:nth-child(3) { width: 480px;
+        height: 125px;
+        background-color: rgb(15, 15, 49);
+    }
+    div:nth-child(4) { width: 240px;
+        height: 125px;
+        background-color: rgb(133, 133, 153);
+    }
+    div:nth-child(5) { width: 240px;
+        height: 250px;
+        background-color: rgb(71, 218, 218);
+        float: ;
+    }
+    div:nth-child(6) { width: 240px;
+        height: 250px;
+        background-color: blue;
+        float: ;
+    }
+    div:nth-child(7) { width: 240px;
+        height: 250px;
+        background-color: rgb(129, 143, 97);
+        float: ;
+    }
+    div:nth-child(8) { width: 240px;
+        height: 250px;
+        float: ;
+        background-color: blue;
+    }
+    div:nth-child(9) { width: 480px;
+        height: 80px;
+        background-color: blue;
+        float: ;
+    }
+
+}
