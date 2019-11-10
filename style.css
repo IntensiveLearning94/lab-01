@@ -2,12 +2,12 @@
     div:nth-child(1) { width: 480px;
         height: 75px;
         background-color: blue;
-        float: left;
+        flex-wrap:wrap;
     }
     div:nth-child(2) { width: 480px;
         height: 150px;
         background-color: orangered;
-        float: right;
+        flex-wrap:wrap;
     }
     div:nth-child(3) { width: 480px;
         height: 125px;
@@ -20,27 +20,27 @@
     div:nth-child(5) { width: 240px;
         height: 250px;
         background-color: rgb(71, 218, 218);
-        float: ;
+        flex-wrap:wrap;
     }
     div:nth-child(6) { width: 240px;
         height: 250px;
         background-color: blue;
-        float: ;
+        flex-wrap:wrap;
     }
     div:nth-child(7) { width: 240px;
         height: 250px;
         background-color: rgb(129, 143, 97);
-        float: ;
+        
     }
     div:nth-child(8) { width: 240px;
         height: 250px;
-        float: ;
+        flex-wrap:wrap;
         background-color: blue;
     }
     div:nth-child(9) { width: 480px;
         height: 80px;
         background-color: blue;
-        float: ;
+        flex-wrap:wrap;
     }
 
 }
